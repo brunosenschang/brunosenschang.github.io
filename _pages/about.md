@@ -13,6 +13,7 @@ Research Interests
   - Equalization/detection
   - Channel estimation
   - PAPR reduction
+  - Integrated Sensing and Communications (ISAC)
 - Machine learning for wireless communications systems
   - Applications: channel estimation, handover optimizations, data detection...
 
