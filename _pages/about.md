@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Research Interests
 ======
 - Advanced waveforms for 6G systems
@@ -19,9 +20,9 @@ Research Interests
 
 Education
 ======
-- D. Sc., Electrical Engineering, Federal University of Santa Catarina/Conservatoire National des Arts et Métiers, 2012
-- M. Sc., Electrical Engineering, Federal University of Santa Catarina, 2008
-- B. Sc., Telecommunications Engineering, Regional University of Blumenau, 2006
+- D. Sc., Electrical Engineering, Federal University of Santa Catarina (Brazil)/Conservatoire National des Arts et Métiers (France), 2012
+- M. Sc., Electrical Engineering, Federal University of Santa Catarina (Brazil), 2008
+- B. Sc., Telecommunications Engineering, Regional University of Blumenau (Brazil), 2006
 
 Publications
 ======
