@@ -21,7 +21,7 @@ repository               : "brunosenschang/brunosenschang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "foto_lattes.jpg"
   name             : "Bruno Sens Chang"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor at CPGEI/DAELN"
